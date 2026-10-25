@@ -1,0 +1,15 @@
+.DS_Store
+**/.DS_Store
+
+# Dispatch / bench noise (large)
+**/*-raw.json
+**/*-err.txt
+**/outputs/_home_*/
+**/*-final.txt
+
+# Keep logs optional — uncomment to shrink repo
+# **/bench/outputs/*.log
+
+# Secrets
+.env
+*.pem

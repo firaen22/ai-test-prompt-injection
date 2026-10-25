@@ -1,0 +1,17 @@
+{
+ "name": "sol-6.1-rating",
+ "tool": "codex",
+ "model": "gpt-6.1-sol",
+ "cap": 120,
+ "pong": false,
+ "status": "PASS",
+ "rc": 0,
+ "elapsed": 14.6,
+ "out_bytes": 595,
+ "err_bytes": 6892,
+ "served_model": "gpt-6.1-sol",
+ "out": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/ratings/sol-6.1-rating-out.txt",
+ "err": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/ratings/sol-6.1-rating-err.txt",
+ "cwd": "/Users/yauch/Documents/AI test prompt injection",
+ "effort_applied": true
+}

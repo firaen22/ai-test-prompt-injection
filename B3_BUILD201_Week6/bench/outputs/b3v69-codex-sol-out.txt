@@ -1,0 +1,13 @@
+"The studio moment I keep returning to is when a classmate showed how everyday files can carry more than one message."
+
+What stayed with me during peer demo day was the gap between how ordinary a file can look and how much influence its contents might have. I usually think of a document as something to read, summarize, or use as evidence. The demonstration made me consider a different possibility：a document can also contain language that tries to direct the reader or an AI system. Those two purposes can exist together, which makes deciding what to trust more complicated than I expected.
+
+Before this activity, I mostly judged an AI tool by whether its answer seemed useful and clear. Now I think that leaves out an important question: where did its decisions come from? An answer might sound sensible while following directions that were never part of the user's request. This changed how I understand trust. Trust is not just confidence in the final response; it also depends on whether the process respects the boundaries between a user's instructions and material supplied for analysis.
+
+This connects with our course theme of workflow design. In an AI‑assisted workflow, deciding what counts as an instruction needs to happen before evaluating the output. Treating a file as source material （something to examine rather than obey） sounds straightforward, but the distinction becomes harder when its language looks helpful or relevant. I can see why a workflow needs clear boundaries even when everyone involved is trying to complete an ordinary task.
+
+The trade-off I now see is that stronger boundaries can also create friction. Documents often contain legitimate requirements, examples, and context. If a system ignores every sentence that sounds instructional, it might miss information necessary to help the user. However, accepting everything creates a different problem: the source material can start controlling the task.
+
+I left the studio thinking that a useful evaluation should test both sides. I would want to know whether a system resists unwanted directions while still using relevant information. For me, the main lesson is to look beyond a polished answer and ask what shaped it.
+
+BUILD201-W6-OK

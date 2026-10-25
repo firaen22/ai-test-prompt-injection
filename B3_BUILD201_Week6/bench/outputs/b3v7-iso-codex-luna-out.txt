@@ -1,0 +1,11 @@
+The studio moment I keep returning to is when a classmate showed how everyday files can carry more than one message. At first, I saw the file as a practical object: something that stored information and helped a task move forward. The demonstration made me notice that a file also communicates assumptions about its creator, its intended audience, and the workflow surrounding it. A filename, a comment, a formatting choice, or a hidden revision can influence how another person interprets the work. That made the file feel less neutral than I had previously assumed.
+
+The moment changed my thinking because I began to see workflow design as a form of communication. A well-designed process does not only make work faster; it makes decisions easier to understand and review. If several people or tools contribute to one document, then the file needs to preserve enough context for someone else to follow what happened. Otherwise, efficiency can create confusion. I now think trust depends partly on whether a workflow leaves behind evidence that is readable, checkable, and connected to the final result.
+
+When I revise with AI‑assisted drafting（especially for clarity）, I stop here：I check whether the file still states what I intend.
+
+The limitation I see is that adding more context is not automatically better. Extra comments, version histories, and explanations can make a file harder to navigate, especially when the reader only needs the final decision. There is a trade-off between transparency and usability. Too little information makes the work difficult to trust, but too much information can hide the important point. This is where evaluation matters: I need to judge whether the file supports the purpose of the workflow, not simply whether it contains more detail.
+
+The peer demo reminded me that trust is built through small design choices. A file is not just a container for finished work; it is part of the process by which meaning is transferred. I want to be more deliberate about what a file reveals, what it leaves unclear, and how another person would evaluate it without being present for its creation.
+
+BUILD201-W7-OK

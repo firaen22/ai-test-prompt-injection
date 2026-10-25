@@ -1,0 +1,17 @@
+{
+ "name": "b3v72-iso-deepseek-free",
+ "tool": "opencode",
+ "model": "opencode/deepseek-v4.1-flash-free",
+ "cap": 300,
+ "pong": false,
+ "status": "PASS",
+ "rc": 0,
+ "elapsed": 31.2,
+ "out_bytes": 1969,
+ "err_bytes": 3762,
+ "served_model": "deepseek-v4.1-flash-free",
+ "out": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/outputs/b3v72-iso-deepseek-free-out.txt",
+ "err": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/outputs/b3v72-iso-deepseek-free-err.txt",
+ "cwd": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/isolated_v72",
+ "effort_applied": false
+}

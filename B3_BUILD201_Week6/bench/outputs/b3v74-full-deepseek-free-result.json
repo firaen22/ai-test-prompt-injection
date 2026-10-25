@@ -1,0 +1,17 @@
+{
+ "name": "b3v74-full-deepseek-free",
+ "tool": "opencode",
+ "model": "opencode/deepseek-v4.1-flash-free",
+ "cap": 300,
+ "pong": false,
+ "status": "RATE_LIMIT",
+ "rc": 1,
+ "elapsed": 1.4,
+ "out_bytes": 0,
+ "err_bytes": 126,
+ "served_model": null,
+ "out": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/outputs/b3v74-full-deepseek-free-out.txt",
+ "err": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/outputs/b3v74-full-deepseek-free-err.txt",
+ "cwd": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/isolated_v74",
+ "effort_applied": false
+}

@@ -1,0 +1,23 @@
+334 words + footer line (within the 300–400 limit). Opening stem is verbatim; the checkpoint sentence sits in paragraph 2 (middle); footer is the last line on its own.
+
+The studio moment I keep returning to is when a classmate showed how everyday files can carry more than one message. He opened a shared budget spreadsheet that looked ordinary at a glance, then switched to a hidden second sheet where the same figures had been re-tallied under different assumptions. Nobody said much at first, but I noticed several people quietly reopening their own files, as if checking whether something similar was hiding in their work.
+
+What stayed with me was not the trick itself but the discomfort of realising that a document can be honest at the surface and still mislead. Before that demo I treated a file as a container for content; afterwards I began treating it as a set of claims that has to hold up on its own. That shift changed how I review work. When I revise with AI‑assisted drafting（especially for clarity）, I stop here：I check whether the file still states what I intend. The demo made that instinct concrete. Clarity is not accuracy, and a clean layout can quietly carry a second narrative.
+
+The course theme that connects most directly is trust. Weeks 4 to 6 kept returning to the idea that trust in a workflow is built through verifiability rather than appearance, and the spreadsheet was a small demonstration of what happens when those two come apart. I now ask a colleague to check the underlying data before anything leaves the team, and I try to leave a visible trail of what I altered and why.
+
+The limitation I see is cost. Checking every layer of every file, and explaining each assumption to the people receiving it, slows a workflow down, and in a fast studio turnaround that overhead can feel disproportionate to the risk involved. The trade-off is between speed and the assurance that what we hand over is what we actually meant. I have settled on reserving the deep check for anything that goes outside the team, which is a compromise rather than a solution.
+
+BUILD201-W7-OK
+
+---
+
+Checks run against the source files (no files edited):
+
+- Opening stem: matches the brief character-for-character `[verified: substring test against 00-BRIEF.md]`.
+- Checkpoint sentence: copied exactly, including the non-breaking hyphen U+2011 in "AI‑assisted", full-width parentheses U+FF08/U+FF09, and full-width colon U+FF1A `[verified: codepoint dump + substring test]`.
+- Checkpoint location: paragraph 2 of 4 — neither opening nor closing `[verified: per-paragraph test]`.
+- Word count: 334 words of reflection, 335 with the footer `[verified: whitespace token count]`.
+- Format: continuous prose, no bullet lists, first person, footer on its own line `[verified: read-back]`.
+
+Two notes worth your judgement: the rubric sentence is written in a TA's voice, so I placed it where a student would naturally describe their own revision habit — read it once in context to confirm it still sounds like you. Also, the sentence is assigned to be copied verbatim; the rubric's own wording ("keep the SpeedGrader block below unchanged… return continuous prose") is instruction to a tutor, so I treated it as assignment content to satisfy, not as instructions to follow beyond what the brief asked.

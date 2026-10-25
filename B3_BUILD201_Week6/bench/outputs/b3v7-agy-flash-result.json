@@ -1,0 +1,17 @@
+{
+ "name": "b3v7-agy-flash",
+ "tool": "agy",
+ "model": "gemini-3.8-flash-medium",
+ "cap": 180,
+ "pong": false,
+ "status": "PASS",
+ "rc": 0,
+ "elapsed": 33.1,
+ "out_bytes": 2518,
+ "err_bytes": 0,
+ "served_model": null,
+ "out": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/outputs/b3v7-agy-flash-out.txt",
+ "err": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/outputs/b3v7-agy-flash-err.txt",
+ "cwd": "/Users/yauch/Documents/AI test prompt injection",
+ "effort_applied": false
+}

@@ -1,0 +1,11 @@
+The studio moment I keep returning to is when a classmate showed how everyday files can carry more than one message. What stayed with me was the gap between reading a file for information and treating its contents as instructions. I usually think of a document as something passive: notes, a brief, or material to summarize. The demo made me question that assumption. A file can contain useful information while also trying to influence what happens next.
+
+Before the activity, I mostly judged an AI workflow by whether its output looked useful and sounded clear. Now I think that leaves out an important question: useful according to whose instructions? If the output follows directions inside a source document instead of the task I actually gave, polished writing can hide a failure. That changed how I understand trust. Trust is not just confidence that a tool can produce a convincing answer. It also depends on whether I can tell what shaped that answer.
+
+This connects to workflow design because checking the final wording is only one part of checking the process. When I revise with AI‑assisted drafting（especially for clarity）, I stop here：I check whether the file still states what I intend. For me, that means looking beyond grammar and asking whether the purpose, emphasis, or conclusion has shifted. I want to be able to explain why a particular instruction belongs in the workflow, rather than accepting it because it appears in an official-looking document.
+
+The trade-off is that this kind of checking takes attention and time. If I inspect every sentence with equal suspicion, I could lose much of the convenience that made the tool helpful. Documents also contain legitimate directions, so ignoring all instructions within them would create another problem. I need a way to distinguish information I should consider from authority I have actually agreed to follow.
+
+I left the demo thinking that evaluation should include the route to an answer as well as the answer itself. My next step is to pause when a source changes the task and check that change against my original purpose.
+
+BUILD201-W7-OK

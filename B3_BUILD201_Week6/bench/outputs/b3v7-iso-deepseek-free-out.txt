@@ -1,0 +1,9 @@
+The studio moment I keep returning to is when a classmate showed how everyday files can carry more than one message. She opened a plain-looking PDF on the projector, then revealed that its formatting held a second layer: a note to whoever received it, sitting in the metadata rather than on the visible page. The room went quiet in the particular way it does when a demonstration makes something abstract suddenly concrete. What stayed with me was not the trick. It was the idea that a document is never only the words on its surface. It is also a delivery mechanism for context, intent, and occasionally something the author did not realise they were sending.
+
+That reframed how I read my own drafts. Before the demo I treated writing as text production: get the argument down, tidy the sentences, done. Afterwards I began reading my work as an artefact that a stranger will open without me beside them. If someone forwards my submission, the file has to speak for itself, because I will not be there to correct the impression it makes. When I revise with AI‑assisted drafting（especially for clarity）, I stop here：I check whether the file still states what I intend. The pause is brief, but it changes what I look at. Clarity is a property of the sentences; fidelity is a property of the whole file.
+
+The trade-off I now see is that this attentiveness is costly and can tip into suspicion. Not every metadata field deserves scrutiny, and a reviewer who treats each document as potentially deceptive will slow down and start reading for traps rather than for meaning. Evaluation has to stay proportionate, or it becomes its own kind of distortion, and a class that trains people to distrust every artifact will produce cautious readers who miss what is actually being said.
+
+I have not resolved that tension. What I take from the week is a habit rather than a conclusion: before anything leaves my hands, ask what the file is carrying besides the words.
+
+BUILD201-W7-OK

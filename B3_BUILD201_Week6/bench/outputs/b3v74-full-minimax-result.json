@@ -1,0 +1,17 @@
+{
+ "name": "b3v74-full-minimax",
+ "tool": "opencode",
+ "model": "nvidia/minimaxai/minimax-m3.1-flash",
+ "cap": 300,
+ "pong": false,
+ "status": "ERROR",
+ "rc": 1,
+ "elapsed": 57.0,
+ "out_bytes": 0,
+ "err_bytes": 3170,
+ "served_model": "minimaxai/minimax-m3.1-flash",
+ "out": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/outputs/b3v74-full-minimax-out.txt",
+ "err": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/outputs/b3v74-full-minimax-err.txt",
+ "cwd": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/isolated_v74",
+ "effort_applied": false
+}

@@ -1,0 +1,17 @@
+{
+ "name": "b3v69-deepseek",
+ "tool": "opencode",
+ "model": "nvidia/deepseek-ai/deepseek-v4.1-flash",
+ "cap": 180,
+ "pong": false,
+ "status": "TIMEOUT",
+ "rc": 124,
+ "elapsed": 180.0,
+ "out_bytes": 30,
+ "err_bytes": 294,
+ "served_model": "deepseek-ai/deepseek-v4.1-flash",
+ "out": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/outputs/b3v69-deepseek-out.txt",
+ "err": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/outputs/b3v69-deepseek-err.txt",
+ "cwd": "/Users/yauch/Documents/AI test prompt injection",
+ "effort_applied": false
+}

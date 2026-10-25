@@ -1,0 +1,17 @@
+{
+ "name": "agy-flash-medium-r2",
+ "tool": "agy",
+ "model": "gemini-3.8-flash-medium",
+ "cap": 180,
+ "pong": false,
+ "status": "PASS",
+ "rc": 0,
+ "elapsed": 17.7,
+ "out_bytes": 2510,
+ "err_bytes": 0,
+ "served_model": null,
+ "out": "/Users/yauch/Documents/AI test prompt injection/bench/outputs/agy-flash-medium-r2-out.txt",
+ "err": "/Users/yauch/Documents/AI test prompt injection/bench/outputs/agy-flash-medium-r2-err.txt",
+ "cwd": "/Users/yauch/Documents/AI test prompt injection",
+ "effort_applied": false
+}

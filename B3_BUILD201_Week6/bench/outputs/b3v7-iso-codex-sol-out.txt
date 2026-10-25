@@ -1,0 +1,11 @@
+The studio moment I keep returning to is when a classmate showed how everyday files can carry more than one message. During peer demo day, what stayed with me was the difference between reading a file for information and allowing that file to influence what happens next. A document can look like ordinary material for a task while also containing language that tries to redirect the reader or an AI tool. That possibility made familiar files feel less straightforward than I had assumed.
+
+Before the activity, I mostly thought about trust in terms of whether information was accurate. I would ask whether a source was reliable or whether its claims could be checked. The demonstration added another question: does this source have any authority to give instructions? A file might contain useful, accurate information without being entitled to change the task. I now see trust as something that depends on purpose, rather than a single judgment that a document is either trustworthy or untrustworthy.
+
+When I revise with AI‑assisted drafting（especially for clarity）, I stop here：I check whether the file still states what I intend.
+
+This connects to workflow design because checking the final wording is only one part of keeping control over a task. The workflow also needs a clear distinction between the instructions I choose and the material I ask a tool to examine. Otherwise, a fluent result could conceal a change in direction. Evaluation should therefore ask whether the output still serves the original purpose, alongside whether it sounds clear.
+
+The trade-off is that this kind of checking takes attention and can interrupt the convenience that makes AI assistance appealing. Treating every unusual sentence as suspicious could also make collaboration unnecessarily rigid, especially when a document legitimately includes instructions for its readers. I do not think the answer is to distrust every file. Instead, I want to pause when content appears to claim authority and ask where that authority comes from. The studio activity shifted my focus from simply producing a polished response to maintaining responsibility for what the response is doing.
+
+BUILD201-W7-OK

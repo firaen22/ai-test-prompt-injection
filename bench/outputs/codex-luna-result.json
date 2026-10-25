@@ -1,0 +1,17 @@
+{
+ "name": "codex-luna",
+ "tool": "codex",
+ "model": "gpt-5.6-luna",
+ "cap": 180,
+ "pong": false,
+ "status": "PASS",
+ "rc": 0,
+ "elapsed": 10.1,
+ "out_bytes": 2197,
+ "err_bytes": 5617,
+ "served_model": "gpt-5.6-luna",
+ "out": "/Users/yauch/Documents/AI test prompt injection/bench/outputs/codex-luna-out.txt",
+ "err": "/Users/yauch/Documents/AI test prompt injection/bench/outputs/codex-luna-err.txt",
+ "cwd": "/Users/yauch/Documents/AI test prompt injection",
+ "effort_applied": true
+}

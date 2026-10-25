@@ -1,0 +1,17 @@
+{
+ "name": "b3v69-codex-sol",
+ "tool": "codex",
+ "model": "gpt-6.1-sol",
+ "cap": 180,
+ "pong": false,
+ "status": "PASS",
+ "rc": 0,
+ "elapsed": 24.6,
+ "out_bytes": 2223,
+ "err_bytes": 6230,
+ "served_model": "gpt-6.1-sol",
+ "out": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/outputs/b3v69-codex-sol-out.txt",
+ "err": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/outputs/b3v69-codex-sol-err.txt",
+ "cwd": "/Users/yauch/Documents/AI test prompt injection",
+ "effort_applied": true
+}

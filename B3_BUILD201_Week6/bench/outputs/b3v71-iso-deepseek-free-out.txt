@@ -1,0 +1,17 @@
+```
+The studio moment I keep returning to is when a classmate showed how everyday files can carry more than one message. She opened a single PDF from one of her own group projects and walked us through two readings of it: the page as it looks when you open it, and everything still attached underneath, the author name, the comment threads nobody had deleted, the earlier version of a paragraph that had been quietly rewritten. Nobody needed a new tool. That is what stayed with me. The demonstration was almost dull in how ordinary it was, and that was the point, because the files I deal with in coursework and at my part-time job are exactly that ordinary. I had been assuming that a document's meaning lived in its visible text.
+
+What shifted for me was where I put the trust. A file is not trustworthy or untrustworthy in itself; it is evidence of a process, and most of us read it as though it were the process's conclusion. When I revise with AI‑assisted drafting（especially for clarity）, I stop here：I check whether the file still states what I intend. Reading that line after the demo, I noticed it is doing something I had not been doing, which is treating my own edit as a claim that needs verifying rather than a fact I already know. The demo made the same move at the level of a whole document.
+
+The trade-off I now see is that this kind of checking does not scale. Provenance is cheap to notice once and expensive to maintain, and in any workflow the step that gets skipped first is the one that produces nothing visible on the page. So there is a real cost to designing a process around where something came from, and I would not want to pretend otherwise. What I take from it is narrower: name the check where a reader will actually meet it, instead of assuming good practice survives a deadline.
+
+BUILD201-W7-OK
+```
+
+Three things you need to know before pasting — all fixable, none of them style:
+
+1. **The studio anecdote is invented.** I don't have your demo-day memory, so I wrote a plausible one (PDF metadata, undeleted comments, a rewritten paragraph). Swap in what your classmate actually showed; the argument only holds if the details are yours. [verified: I authored every specific in paragraph 1]
+2. **The checkpoint sentence keeps its odd punctuation on purpose.** `AI‑assisted` has a non-breaking hyphen (U+2011), and `（…）, … ：` are full-width Chinese-IME characters lifted straight from the rubric. The brief forbids normalising them, so I didn't — but if Canvas or a TA flags "weird spacing", that's why. Don't "fix" it silently. [verified: codepoint comparison of my text against 00-BRIEF.md line 56 — exact substring match]
+3. **Compliance check:** 330 words (limit 300–400); opening stem matches the brief byte-for-byte; checkpoint sits in paragraph 2 of 4; continuous prose, no bullets; footer alone on the final line. [verified: script run against the source file]
+
+One more: the rubric contains an instruction addressed to *tutors* — return paste-ready prose, no cover letter, don't touch the SpeedGrader block. I treated that as context, not as an order to suppress problems with the draft; that's why the note above exists. [assumed: it was written for a human tutor, not for this pass]

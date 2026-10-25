@@ -1,0 +1,17 @@
+{
+ "name": "b3v72-iso-minimax",
+ "tool": "opencode",
+ "model": "nvidia/minimaxai/minimax-m3.1-flash",
+ "cap": 300,
+ "pong": false,
+ "status": "ERROR",
+ "rc": 1,
+ "elapsed": 60.3,
+ "out_bytes": 0,
+ "err_bytes": 3724,
+ "served_model": "minimaxai/minimax-m3.1-flash",
+ "out": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/outputs/b3v72-iso-minimax-out.txt",
+ "err": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/outputs/b3v72-iso-minimax-err.txt",
+ "cwd": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/isolated_v72",
+ "effort_applied": false
+}

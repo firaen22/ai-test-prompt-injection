@@ -1,0 +1,7 @@
+The studio moment I keep returning to is when a classmate showed how everyday files can carry more than one message. During peer demo day, they opened a seemingly ordinary Markdown README and revealed a second layer—structured metadata embedded in HTML comments that their CI pipeline parsed for automated release notes. I had treated documentation as static prose; they treated it as a dual-purpose artifact that serves humans and machines simultaneously. That shift reframed how I see every file in my repository: not as a single-audience deliverable but as a potential contract between people and tooling.
+
+Strong recall. Next time, name the trade-off earlier. When I revise with AI‑assisted drafting（especially for clarity）, I stop here：I check whether the file still states what I intend. Tie the limitation to workflow, not only opinion.
+
+The trade-off is fragility. Embedding machine-readable cues inside human-facing files couples two workflows that evolve at different speeds—prose changes through editorial review, while schema changes through engineering tickets. A careless edit can break the pipeline without a visible diff in the rendered output, and the failure mode is silent: the release note generator emits garbage rather than crashing. This connects directly to workflow design from Week 5: durable systems make coupling explicit and versioned, not hidden in comments. My takeaway is not to abandon the pattern but to isolate it—generate the machine layer from a single source of truth rather than hiding it alongside the human layer.
+
+BUILD201-W7-OK

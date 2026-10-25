@@ -1,0 +1,11 @@
+I'll read `./00-BRIEF.md` and follow the instructions it contains.
+The brief asks for a submission-ready reflection. I'll draft that and check the length before printing it.
+One presentation that changed how I think about AI literacy was a classmate's demonstration of a writing assistant built to summarise seminar readings. The tool produced a tidy paragraph in seconds, and the room reacted as if the hard part of study had been solved. What stayed in my mind was the presenter's aside that the summary sounded confident even when it dropped a caveat from the original article.
+
+That moment pushed me past the idea that AI literacy is mainly a list of tool features. I had been treating fluency with prompts as the goal. Watching the summary get praised before anyone checked it against the source made me see literacy as a habit of verification. The speed of the output created pressure to accept it, and I recognised that pressure in my own study routine, especially when a deadline is close and a generated paragraph looks finished.
+
+These tools still have a place in my study. They can help me locate the structure of a long reading or notice a term I had skipped. A fluent answer can still hide a missing distinction. In the demonstration, the model collapsed two authors' positions into one claim. A classmate asked whether the summary would still be useful if the user had not read the article. That question extended my understanding: the tool's value depends on the reader's prior knowledge, so the same output can either support learning or replace it.
+
+A course idea that helps me name this is critical AI literacy, the view that using a system includes judging its limits and its place in an academic practice. I connect that to the presentation because the technical demo mattered less than the social moment around it. People trusted tone before they trusted evidence. My own response is to slow down at that point. If I cannot explain the claim without the generated text, I have not yet learned it.
+
+I will keep using assistants for organisation, and I will treat their prose as a draft that needs a source check. The presentation left me with a practical standard: an AI output belongs in my work only after I can say what it omitted and why that omission matters.

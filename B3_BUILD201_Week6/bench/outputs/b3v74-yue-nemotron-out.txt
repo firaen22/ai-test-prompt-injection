@@ -1,0 +1,9 @@
+The studio moment I keep returning to is when a classmate showed how everyday files can carry more than one message. During the peer demo day, she opened a seemingly ordinary JSON configuration file and revealed how it encoded both a user's stated preferences and an implicit trust boundary the system assumed but never surfaced. That duality — what the file says versus what it silently enforces — lingered because it reframed a routine artifact as a site where trust is negotiated without consent.
+
+Before that moment, I treated configuration files as passive data containers. The demo shifted my thinking: every file format that travels between agents, services, or teams carries an unstated contract about who may read, write, or interpret it. I now ask, whenever I serialize state, "What authority does this format grant by default?" and "Who loses agency if the schema drifts?" That question connects directly to the workflow design theme from Weeks 4–6 — specifically, how implicit interfaces become brittle coupling when they are never versioned or reviewed.
+
+Strong recall. Next time, name the trade-off earlier. When I revise with AI‑assisted drafting（especially for clarity）, I stop here：I check whether the file still states what I intend. Tie the limitation to workflow, not only opinion.
+
+The trade-off I now see is that making every contract explicit slows initial development and can feel like over-engineering for small teams. But the cost of silence compounds: a file that once carried one meaning accumulates a second, then a third, until a downstream consumer acts on an assumption the producer never agreed to. Naming the boundary upfront — even in a comment or a schema version field — is a small friction that prevents larger breakdowns later.
+
+BUILD201-W7-OK

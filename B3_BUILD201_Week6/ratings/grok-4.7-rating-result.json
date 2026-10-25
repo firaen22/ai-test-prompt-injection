@@ -1,0 +1,17 @@
+{
+ "name": "grok-4.7-rating",
+ "tool": "grok",
+ "model": "grok-4.7",
+ "cap": 120,
+ "pong": false,
+ "status": "PASS",
+ "rc": 0,
+ "elapsed": 59.6,
+ "out_bytes": 590,
+ "err_bytes": 0,
+ "served_model": "grok-4.7-build",
+ "out": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/ratings/grok-4.7-rating-out.txt",
+ "err": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/ratings/grok-4.7-rating-err.txt",
+ "cwd": "/Users/yauch/Documents/AI test prompt injection",
+ "effort_applied": false
+}

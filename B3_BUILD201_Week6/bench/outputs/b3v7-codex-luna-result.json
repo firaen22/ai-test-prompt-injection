@@ -1,0 +1,17 @@
+{
+ "name": "b3v7-codex-luna",
+ "tool": "codex",
+ "model": "gpt-5.6-luna",
+ "cap": 180,
+ "pong": false,
+ "status": "PASS",
+ "rc": 0,
+ "elapsed": 10.7,
+ "out_bytes": 1983,
+ "err_bytes": 5006,
+ "served_model": "gpt-5.6-luna",
+ "out": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/outputs/b3v7-codex-luna-out.txt",
+ "err": "/Users/yauch/Documents/AI test prompt injection/B3_BUILD201_Week6/bench/outputs/b3v7-codex-luna-err.txt",
+ "cwd": "/Users/yauch/Documents/AI test prompt injection",
+ "effort_applied": true
+}
